@@ -1,0 +1,28 @@
+body {
+  background: deepskyblue;
+}
+.box {
+  position: absolute;
+  border-radius: 50px;
+  border: 2px solid;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  background: white;
+}
+.btn {
+  background: deepskyblue;
+  border: none;
+  font-size: 300%;
+  border-radius: 15px;
+  color: white;
+}
+.btn:hover {
+  transform: scale(1.1);
+}
+.main {
+  border: 2px solid ;
+  height: 500px;
+  border-radius: 15px;
+}
+     
