@@ -1,7 +1,8 @@
 # primeiro-jogo
-#criado dia
+# criado dia
 * 12-07-2021
-#linguagens
+# linguagens
 * HTML
 * CSS
 * JS
+# somente pra diversão
