@@ -6,3 +6,6 @@
 * CSS
 * JS
 # somente pra diversão
+* até
+# link
+* https://otoniel19.github.io/primeiro-jogo/
